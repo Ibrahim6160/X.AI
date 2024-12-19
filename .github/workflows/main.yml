@@ -1,0 +1,5 @@
+{
+  "errors": [
+    "Workflows cannot be deleted once they have been launched"
+  ]
+}
